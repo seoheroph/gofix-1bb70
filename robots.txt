@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/gofix-1bb70/sitemap.xml
+Sitemap: https://gofix-1bb70.pages.dev/sitemap.xml
